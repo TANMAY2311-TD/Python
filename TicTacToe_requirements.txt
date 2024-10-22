@@ -1,0 +1,3 @@
+pip install pygame
+
+play game(in terminal window): python runner.py
